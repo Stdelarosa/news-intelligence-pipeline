@@ -1,0 +1,7 @@
+requests
+psycopg2-binary
+sqlalchemy
+pandas
+streamlit
+textblob
+spacy
